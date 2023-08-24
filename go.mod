@@ -3,8 +3,8 @@ module github.com/dgomezlikeyoube/ms_domain
 go 1.20
 
 require (
-	github.com/google/uuid v1.3.0
-	gorm.io/gorm v1.25.2
+	github.com/google/uuid v1.3.1
+	gorm.io/gorm v1.25.4
 )
 
 require (
